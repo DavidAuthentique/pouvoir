@@ -1,0 +1,24 @@
+:root{
+  --font-display:"DM Serif Display",serif;
+  --font-body:"Outfit",sans-serif;
+  --font-mono:"Space Mono",monospace;
+
+  --text-body-size:18px;
+  --lh-body:1.55; /* @kind other */
+  --lh-display:.98; /* @kind other */
+  --letter-display:-.045em;
+  --letter-heading:-.04em;
+
+  --text-eyebrow-size:.72rem;
+  --tracking-eyebrow:.17em;
+  --tracking-nav:.08em;
+  --tracking-button:.07em;
+  --tracking-ticker:.13em;
+
+  --size-h1:clamp(4rem,8.2vw,8rem);
+  --size-h2-lg:clamp(3.2rem,7vw,7rem);
+  --size-h2-xl:clamp(3.4rem,8vw,8rem);
+  --size-h3:clamp(2.3rem,4vw,4.5rem);
+  --size-wordmark:clamp(1.5rem,3vw,2.3rem);
+  --size-body-lg:clamp(1.1rem,2vw,1.45rem);
+}

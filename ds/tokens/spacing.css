@@ -1,0 +1,15 @@
+:root{
+  --radius-card:24px;
+  --radius-pill:999px;
+  --radius-photo-frame:3px;
+  --radius-photo-organic:45% 45% 18px 18px;
+  --gutter:clamp(1.25rem,5vw,5.5rem); /* @kind spacing */
+
+  --shadow-card:0 24px 60px rgba(44,25,50,.12);
+  --shadow-button:0 15px 30px rgba(117,45,26,.24);
+  --shadow-photo:0 18px 34px rgba(32,28,44,.18);
+
+  --ease-entry:cubic-bezier(.2,.8,.2,1); /* @kind other */
+  --duration-reveal:.9s; /* @kind other */
+  --duration-hover:.2s; /* @kind other */
+}
